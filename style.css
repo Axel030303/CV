@@ -6,8 +6,8 @@ body {
 }
 
 Main {
-    width: 500px;
-    border:1px solid black;
+    width: 900px;
+    border:2px solid black;
     text-align: center; 
     padding: 30px;
     margin: auto; 
